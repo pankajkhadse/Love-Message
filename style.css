@@ -74,57 +74,58 @@ body {
 
 .paper.paper6{
     z-index: 5;
-    width: 300px;
+    width: 200px;
     height: 300px;
     padding:0;
 }
 
 .paper.paper6 img{
-    width: 300px;
+    width: 200px;
     height: 300px;
 }
 .paper.paper7{
     z-index: 4;
-    width: 300px;
+    width: 200px;
     height: 350px;
     padding:0;
 }
 
 .paper.paper7 img{
-    width: 300px;
+    width: 200px;
     height: 350px;
 }
 .paper.paper8{
     z-index: 3;
-    width: 300px;
+    width: 200px;
     height: 350px;
     padding:0;
 }
 
 .paper.paper8 img{
-    width: 300px;
+    width: 200px;
     height: 350px;
+    
 }
 .paper.paper9{
     z-index: 2;
-    width: 300px;
+    width: 250px;
     height: 350px;
     padding:0;
 }
 
 .paper.paper9 img{
-    width: 300px;
+    width: 250px;
     height: 350px;
 }
 .paper.paper10{
     z-index: 1;
-    width: 300px;
+    width: 250px;
     height: 350px;
     padding:0;
 }
 
 .paper.paper10 img{
-    width: 300px;
+    width: 250px;
     height: 350px;
 }
 
